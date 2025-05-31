@@ -24,6 +24,9 @@ SerialPortLister.printAvailablePorts();
 ## Build :
 
 #### javac -cp sms-modem-lib-1.0.0.jar sms.java
+
+## Run :
+
 #### java -cp .:sms-modem-lib-1.0.0.jar sms
 ### or
 #### java -cp .:sms-modem-lib-1.0.0.jar sms.java
