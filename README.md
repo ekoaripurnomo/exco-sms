@@ -1,4 +1,4 @@
-# Java Library Send SMS using on Modem Wavecom M1306B
+# Java Library Send SMS using Modem Wavecom M1306B
 
 ## Using:
 
